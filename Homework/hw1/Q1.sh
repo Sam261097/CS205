@@ -1,1 +1,1 @@
-
+cat *.txt > allmixed.txt
